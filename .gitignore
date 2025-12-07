@@ -1,0 +1,9 @@
+# Ignore Drawio backup files
+*.bkp*
+
+# Ignore Visual Studio files
+*.vs*
+*x64*
+*x86*
+*.vcxproj*
+*.sln*
